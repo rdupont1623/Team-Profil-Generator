@@ -1,0 +1,22 @@
+{
+  "name": "team-profil-generator",
+  "version": "1.0.0",
+  "description": "Web Application that enables the user to quickly create a dynamic group profile chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdupont1623/Team-Profil-Generator.git"
+  },
+  "author": "Ryan Dupont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdupont1623/Team-Profil-Generator/issues"
+  },
+  "homepage": "https://github.com/rdupont1623/Team-Profil-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.5"
+  }
+}
