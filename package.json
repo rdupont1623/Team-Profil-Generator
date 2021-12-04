@@ -4,7 +4,7 @@
   "description": "Web Application that enables the user to quickly create a dynamic group profile chart",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rdupont1623/Team-Profil-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.5"
+    "inquirer": "^8.1.5",
+    "jest": "^27.2.4"
   }
 }
